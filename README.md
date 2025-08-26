@@ -30,7 +30,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-After peaking in early 2020, Tekora's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and AOV by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy and/or competition pressure, Tekora can benefit from restructuring product offerings and enhancing loyalty programs to increase customer lifetime value.
+After peaking in early 2020, Tekora's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: revenue by 42%, order volume by 36%,  and AOV by 9%, largely due to post-pandemic market normalization and competitive pressures. Tekora can benefit from optimizing product offerings, targeting best-performing regions, and enhancing loyalty programs to increase customer lifetime value and sustain revenue growth.
 
 
 # Insights Deep Dive
@@ -99,6 +99,8 @@ Based on the uncovered insights, the following recommendations have been provide
 * Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by **introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.**
   
 * **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
+
+* **Focus on high-performing regions.** Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
   
 * **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
 
