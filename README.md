@@ -39,7 +39,7 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 * **The company's sales peaked in May 2020 with 2,727 orders totaling $797K monthly revenue**. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
 
-* **Tekora exhibited a seasonality pattern, with peak sales in March and October, and lowest sales in November and December despite holidays.
+* **Tekora exhibits a seasonal pattern**, with peak sales in March and October and the lowest sales in November and December, despite the holiday season.
   
 * Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months**. Sales in second half of 2022 lost nearly 50% of value, approaching pre-pandemic figures.
   
