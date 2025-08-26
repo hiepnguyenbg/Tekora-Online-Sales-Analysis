@@ -98,7 +98,7 @@ Based on the uncovered insights, the following recommendations have been provide
   
 * Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by **introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.**
   
-* **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
+* **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, evaluate the product’s viability and consider bundling or promotional sales to non-Apple loyalty members to clear inventory before potential discontinuation.
 
 * **Focus on high-performing regions.** Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
   
