@@ -1,7 +1,7 @@
 Table of Contents
 
 - [Project Background](#project-background)
-- [Data Structure & Initial Checks](#data-structure-&-initial-checks)
+- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
     - [Sales Trends](#sales-trends)
@@ -33,7 +33,7 @@ SQL queries to export cleaned data ready for analysis in Tableau could be found 
 
 An interactive Tableau dashboard used to report and explore subscription sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/TekoraSalesAnalysis/TrendDashboard).
 
-# Data Structure & Initial Checks
+# Data Structure and Initial Checks
 
 Tekora's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count over 78k records.
 
