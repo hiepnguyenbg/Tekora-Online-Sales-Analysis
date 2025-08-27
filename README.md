@@ -1,3 +1,19 @@
+Table of Contents
+
+- [Project Background](#project-background)
+- [Data Structure & Initial Checks](#data-structure-&-initial-checks)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+    - [Sales Trends](#sales-trends)
+    - [Product Performance](#product-performance)
+    - [Regional Comparisons](#regional-comparisons)
+    - [Loyalty Program Performance](#loyalty-program-performance)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
+
+
+
 # Project Background
 Tekora, established in 2018, is a global e-commerce company selling popular electronic products worldwide via its website and mobile app. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program. As a data analyst at Tekora, I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams. This project examines online sales data from January 2019 to December 2022 in order to uncover critical insights that will improve Tekora's commercial success. 
 
@@ -76,7 +92,7 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 ![Regional Comparisons](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Region%20Dashboard.png)
 
 
-### Loyalty Program
+### Loyalty Program Performance
 
 * The loyalty program has grown in popularity since its implementation in 2018. Members as a share of revenue peaked in March 2022 at 61%. **On an annual basis, members have increased to 57% of revenue in 2022, up from 8% in 2019.**
   
@@ -102,5 +118,13 @@ Based on the uncovered insights, the following recommendations have been provide
 
 * **Focus on high-performing regions.** Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
   
-* **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
+* **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing.
+
+
+# Assumptions and Caveats:
+
+* Imperfect data schema normalization: A separate `products` table should exist to prevent duplicates in the orders table. Moreover, since each order can have at most one status, the `order_status` table may be unnecessary. It also contains a redundant `purchase_ts` column.
+
+* Refund Records: No refunds were recorded in 2022, which represents an anomaly that requires further investigation.
+
 
