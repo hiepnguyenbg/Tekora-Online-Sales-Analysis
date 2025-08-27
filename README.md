@@ -57,7 +57,7 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 * **Tekora exhibits a seasonal pattern**, with peak sales in March and October and the lowest sales in November and December, despite the holiday season.
   
-* Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months**. Sales in second half of 2022 lost nearly 50% of value, approaching pre-pandemic figures.
+* Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months**. In the second half of 2022, revenue fell by nearly 50% year-over-year, approaching pre-pandemic figures.
   
 * Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, **up 59% and 60% respectively.**
   
