@@ -1,3 +1,6 @@
+# Tekora Online Sales Analysis
+
+
 Table of Contents
 
 - [Project Background](#project-background)
