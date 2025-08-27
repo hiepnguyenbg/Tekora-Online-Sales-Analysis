@@ -19,7 +19,7 @@ Tekora, established in 2018, is a global e-commerce company selling popular elec
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trends Analysis:** Evaluation of historical sales patterns, focusing on North Star Metrics - Sales, Order Volume, and Average Order Value (AOV).
+- **Sales Trends Analysis:** Evaluation of historical sales patterns, focusing on North Star Metrics - Revenue, Order Volume, and Average Order Value (AOV).
 - **Product Level Performance:** An analysis of Tekora's various product lines, understanding their impact on sales and returns.
 - **Regional Comparisons:** An evaluation of sales and orders by region.
 - **Loyalty Program Success:** An assessment of the loyalty program on sales.
@@ -46,7 +46,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-After peaking in early 2020, Tekora's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: revenue by 42%, order volume by 36%,  and AOV by 9%, largely due to post-pandemic market normalization and competitive pressures. Tekora can benefit from optimizing product offerings, targeting best-performing regions, and enhancing loyalty programs to increase customer lifetime value and sustain revenue growth.
+After peaking in early 2020, Tekora's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: revenue by 42%, order volume by 36%, and AOV by 9%, largely due to post-pandemic market normalization and competitive pressures. Tekora can benefit from optimizing product offerings, targeting best-performing regions, and enhancing loyalty programs to increase customer lifetime value and sustain revenue growth.
 
 
 # Insights Deep Dive
