@@ -56,13 +56,13 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Sales Trends:
 
-* **The company's sales peaked in May 2020 with 2,727 orders totaling $797K monthly revenue**. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
+* The company's sales peaked in May 2020 with 2,727 orders totaling $797K monthly revenue. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
 
-* **Tekora exhibits a seasonal pattern**, with peak sales in March and October and the lowest sales in November and December, despite the holiday season.
+* Tekora exhibits a seasonal pattern, with peak sales in March and October and the lowest sales in November and December, despite the holiday season.
   
-* Beginning in March 2021, **revenue declined on a year-over-year basis for 22 consecutive months**. In the second half of 2022, revenue fell by nearly 50% year-over-year, approaching pre-pandemic figures.
+* Beginning in March 2021, revenue declined on a year-over-year basis for 22 consecutive months. In the second half of 2022, revenue fell by nearly 50% year-over-year, approaching pre-pandemic figures.
   
-* Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, **up 59% and 60% respectively.**
+* Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, up 59% and 60% respectively.
   
 
 ![Sales Trends](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Trend%20Dashboard.png)
@@ -70,15 +70,15 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Product Performance:
 
-* **85% of the company's orders are from just three products**, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $2.6M in sales in 2022, 70% of the company's total.
+* 85% of the company's orders are from just three products, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $2.6M in sales in 2022, 70% of the company's total.
   
 * Laptop sales soared in 2020, with MacBook orders increasing by 430% and ThinkPad by 220%, perhaps due to the switch to online learning at the beginning of the pandemic. 
 
 * In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
   
-* The accessory category (Samsung products) continues to grow as a share of orders, **at 32% in 2022, up from 21% in 2020**. Samsung Cable Pack represents 20% of orders but only 2% of revenue, likely due to its low price or use in promotions.
+* The accessory category (Samsung products) continues to grow as a share of orders, at 32% in 2022, up from 21% in 2020. Samsung Cable Pack represents 20% of orders but only 2% of revenue, likely due to its low price or use in promotions.
   
-* The company is heavily reliant on the continued popularity of Apple products, with the brand **accounting for 48% of total sales in 2022**. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
+* The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 48% of total sales in 2022. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
 ![Product Performance](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Product%20Dashboard.png)
 
@@ -86,9 +86,9 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Regional Comparisons:
 
-* **North America and EMEA contributed 81% of sales, with the U.S. alone accounting for 48%**. After witnessing the largest fall in 2021, North America grew in importance in 2022, increasing revenue share to 55% and order share to 54% among known regions.
+* North America and EMEA contributed 81% of sales, with the U.S. alone accounting for 48%. After witnessing the largest fall in 2021, North America grew in importance in 2022, increasing revenue share to 55% and order share to 54% among known regions.
   
-* APAC has exprienced the highest AOV since 2020. Sales and average order value (AOV) fell across all regions in 2022, but **APAC, along with North America, remained the largest AOV at $237, 38% above Latin America, the lowest performer.**
+* APAC has exprienced the highest AOV since 2020. Sales and average order value (AOV) fell across all regions in 2022, but APAC, along with North America, remained the largest AOV at $237, 38% above Latin America, the lowest performer.
   
 
 
@@ -97,9 +97,9 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Loyalty Program Performance
 
-* The loyalty program has grown in popularity since its implementation in 2018. Members as a share of revenue peaked in March 2022 at 61%. **On an annual basis, members have increased to 57% of revenue in 2022, up from 8% in 2019.**
+* The loyalty program has grown in popularity since its implementation in 2018. Members as a share of revenue peaked in March 2022 at 61%. On an annual basis, members have increased to 57% of revenue in 2022, up from 8% in 2019.
   
-* **In 2022, loyalty members led in key metrics**, generating $500K more in sales, spending $39 more ($248 to $209) per order, and placing 800 more orders than non-loyalty members.
+* In 2022, loyalty members led in key metrics, generating $500K more in sales, spending $39 more ($248 to $209) per order, and placing 800 more orders than non-loyalty members.
   
 
 ![Loyalty Program](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Loyalty%20Dashboard.png)
