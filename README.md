@@ -55,13 +55,10 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Sales Trends:
 
-* The company's sales peaked in May 2020 with 2,727 orders totaling $797K monthly revenue. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
-
-* Tekora exhibits a seasonal pattern, with peak sales in March and October and the lowest sales in November and December, despite the holiday season.
+* **The Post-Pandemic Dip.** Tekora's sales peaked in May 2020 with 2,727 orders totaling $797K monthly revenue, a boom fueled by pandemic-induced changing consumer behavior. However, revenue has been on a steady decline year-over-year basis for 22 consecutive months since March 2021 to levels just above the 2019 baseline.
+* **An Unusual Seasonal Pattern.** Unlike typical retail trends, Tekora's sales have consistently shown an unexpected seasonal pattern. Sales peak in March and October, while the crucial holiday months of November and December are periods of the lowest revenue. This warrants further investigation into the root cause.
   
-* Beginning in March 2021, revenue declined on a year-over-year basis for 22 consecutive months. In the second half of 2022, revenue fell by nearly 50% year-over-year, approaching pre-pandemic figures.
-  
-* Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, up 59% and 60% respectively.
+* **A New Baseline of Concern.** Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, up 59% and 60% respectively. However, the consistent year-over-year decline in the second half of 2022 still represents a significant business challenge.
   
 
 ![Sales Trends](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Trend%20Dashboard.png)
