@@ -89,9 +89,9 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Loyalty Program Performance
 
-* The loyalty program has grown in popularity since its implementation in 2018. Members as a share of revenue peaked in March 2022 at 61%. On an annual basis, members have increased to 57% of revenue in 2022, up from 8% in 2019.
+* **Growing Contribution to Company Revenue.** The loyalty program has become a key revenue driver, with the percentage of sales from members increasing from just 8% in 2019 to 57% in 2022. The program's monthly contribution to revenue peaked at 61% in March 2022. However, a key area of concern has emerged in new member acquisition, which peaked in 2021 at 13,407 new accounts before falling by nearly 50% in 2022.
   
-* In 2022, loyalty members led in key metrics, generating $500K more in sales, spending $39 more ($248 to $209) per order, and placing 800 more orders than non-loyalty members.
+* **Higher Value and Engagement.** In 2022, loyalty members consistently outperformed non-members across all key metrics. They generated $500K more in sales, placed 800 more orders, and spent $39 more per order, demonstrating their higher value and stronger engagement with the brand.
   
 
 ![Loyalty Program](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Loyalty%20Dashboard.png)
