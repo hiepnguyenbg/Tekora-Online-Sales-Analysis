@@ -103,17 +103,25 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 Based on the uncovered insights, the following recommendations have been provided: 
 
-* With 85% of orders and 70% of revenue coming from just three products, signaling over-reliance. **Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.**
-  
-* Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). **Enhancing marketing efforts to previous Apple product buyers could boost sales.**
-  
-* Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by **introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.**
-  
-* **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, evaluate the product’s viability and consider bundling or promotional sales to non-Apple loyalty members to clear inventory before potential discontinuation.
+**Optimizing Product & Category Offerings**
 
-* **Focus on high-performing regions.** Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
+* **Strategic Product Portfolio Management.** Given the over-reliance on a few key products, expand the accessory category with new product lines, such as Apple charging cables, to provide upsell opportunities and broaden the revenue base.
+  
+* **Capitalize on Product Ecosystems.** Introduce higher-cost Samsung products in categories like laptops and cellphones to capitalize on the growing share of Samsung accessory sales.
+  
+* **Re-evaluate Underperforming Products.** Address consistently underperforming products by enhancing marketing for iPhones to previous Apple product buyers and evaluating the viability of Bose SoundSport Headphones by exploring bundles or promotional sales to clear inventory before a potential discontinuation.
+
+**Driving Customer & Regional Growth**
+
+* **Focus on High-Performing Regions.** Continue allocating resources to North America and EMEA with regionalized marketing strategies. In addition, launch a targeted campaign to drive loyalty program sign-ups specifically in the APAC region to capitalize on the high average order value of these customers.
   
 * **Continue and push forward the loyalty program.** Focus on a data-driven tiered rewards program to convert single-purchase customers into loyal members. Implement personalized campaigns that incentivize repeat purchases and use referral bonuses to turn your best customers into powerful advocates, driving long-term, sustainable growth.
+
+* **Enhance the Loyalty Program.** Push forward a data-driven tiered rewards program to convert non-members into loyal members.
+  * Offer a one-time sign-up discount to increase new member acquisition.
+  * Use targeted ads to previous customers to increase the marketing of membership benefits and savings.
+  * Use referral bonuses to turn your best customers into powerful advocates, driving long-term, sustainable growth.
+
 
 
 # Assumptions and Caveats:
