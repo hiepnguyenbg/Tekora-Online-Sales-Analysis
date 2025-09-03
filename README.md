@@ -114,8 +114,6 @@ Based on the uncovered insights, the following recommendations have been provide
 **Driving Customer & Regional Growth**
 
 * **Focus on High-Performing Regions.** Continue allocating resources to North America and EMEA with regionalized marketing strategies. In addition, launch a targeted campaign to drive loyalty program sign-ups specifically in the APAC region to capitalize on the high average order value of these customers.
-  
-* **Continue and push forward the loyalty program.** Focus on a data-driven tiered rewards program to convert single-purchase customers into loyal members. Implement personalized campaigns that incentivize repeat purchases and use referral bonuses to turn your best customers into powerful advocates, driving long-term, sustainable growth.
 
 * **Enhance the Loyalty Program.** Push forward a data-driven tiered rewards program to convert non-members into loyal members.
   * Offer a one-time sign-up discount to increase new member acquisition.
