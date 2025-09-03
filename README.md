@@ -42,8 +42,7 @@ Tekora's database structure as seen below consists of four tables: `orders`, `cu
 
 ![Tekora ERD](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Tekora%20ERD.jpg)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Initial%20Data%20Checks.sql)
-
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Initial%20Data%20Checks.sql).
 
 # Executive Summary
 
