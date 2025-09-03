@@ -78,9 +78,9 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Regional Comparisons:
 
-* North America and EMEA contributed 81% of sales, with the U.S. alone accounting for 48%. After witnessing the largest fall in 2021, North America grew in importance in 2022, increasing revenue share to 55% and order share to 54% among known regions.
-  
-* APAC has exprienced the highest AOV since 2020. Sales and average order value (AOV) fell across all regions in 2022, but APAC, along with North America, remained the largest AOV at $237, 38% above Latin America, the lowest performer.
+* **Over-Reliance on a Few Key Regions.** The business is heavily concentrated in North America and EMEA, which together contributed 81% of total sales with the U.S. alone accounting for 48%.  After a temporary fall in 2021, North America increased its revenue share to 55% in 2022, reinforcing its position as the company's most important market.
+ 
+* **Regional AOV Disparities.** A deeper look into Average Order Value (AOV) reveals significant regional disparities. The APAC region has experienced the highest AOV since 2020, remaining at $237 in 2022, which is 38% higher than the lowest-performing region, Latin America. This highlights APAC as a key market for high-value orders.
   
 
 
