@@ -34,7 +34,7 @@ SQL queries used to inspect the dataset can be found [here](https://github.com/h
 
 SQL queries to export cleaned data ready for analysis in Tableau could be found [here](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Cleaning%20Data%20for%20Analysis.sql).  
 
-An interactive Tableau dashboard used to report and explore subscription sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/TekoraSalesAnalysis/TrendDashboard).
+An interactive Tableau dashboard used to report and explore online sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/TekoraSalesAnalysis/TrendDashboard).
 
 # Data Structure and Initial Checks
 
