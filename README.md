@@ -18,7 +18,7 @@ Table of Contents
 
 
 # Project Background
-Tekora, established in 2018, is a global e-commerce company selling popular electronic products like Apple, Samsung, and ThinkPad via its website and mobile app. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program. As a data analyst at Tekora, I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams. This project examines online sales data from January 2019 to December 2022 in order to uncover critical insights that will improve Tekora's commercial success. 
+Tekora, established in 2018, is a global e-commerce company selling popular electronic products like Apple, Samsung, and ThinkPad via its website and mobile app. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program. As a data analyst at Tekora, I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams. This project examines online sales data from January 2019 to December 2022 to uncover critical insights that will improve Tekora's commercial success. 
 
 Insights and recommendations are provided on the following key areas:
 
@@ -32,7 +32,7 @@ SQL queries used to import data into MySQL can be found [here](https://github.co
 
 SQL queries used to inspect the dataset can be found [here](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Initial%20Data%20Checks.sql).  
 
-SQL queries to export cleaned data ready for analysis in Tableau could be found [here](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Cleaning%20Data%20for%20Analysis.sql).  
+SQL queries to export cleaned data ready for analysis in Tableau can be found [here](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Cleaning%20Data%20for%20Analysis.sql).  
 
 An interactive Tableau dashboard used to report and explore online sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/TekoraSalesAnalysis/TrendDashboard).
 
