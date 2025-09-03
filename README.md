@@ -38,7 +38,7 @@ An interactive Tableau dashboard used to report and explore subscription sales t
 
 # Data Structure and Initial Checks
 
-Tekora's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count of over 78k records.
+Tekora's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count of nearly 80k records.
 
 ![Tekora ERD](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Tekora%20ERD.jpg)
 
