@@ -121,7 +121,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 * **Focus on high-performing regions.** Continue allocating resources to North America and EMEA with regionalized marketing and product availability strategies tailored to local preferences.
   
-* **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing.
+* **Continue and push forward the loyalty program.** Focus on a data-driven tiered rewards program to convert single-purchase customers into loyal members. Implement personalized campaigns that incentivize repeat purchases and use referral bonuses to turn your best customers into powerful advocates, driving long-term, sustainable growth.
 
 
 # Assumptions and Caveats:
