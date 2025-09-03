@@ -18,7 +18,7 @@ Table of Contents
 
 
 # Project Background
-Tekora, established in 2018, is a global e-commerce company selling popular electronic products worldwide via its website and mobile app. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program. As a data analyst at Tekora, I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams. This project examines online sales data from January 2019 to December 2022 in order to uncover critical insights that will improve Tekora's commercial success. 
+Tekora, established in 2018, is a global e-commerce company selling popular electronic products like Apple, Samsung, and ThinkPad via its website and mobile app. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program. As a data analyst at Tekora, I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams. This project examines online sales data from January 2019 to December 2022 in order to uncover critical insights that will improve Tekora's commercial success. 
 
 Insights and recommendations are provided on the following key areas:
 
@@ -38,7 +38,7 @@ An interactive Tableau dashboard used to report and explore subscription sales t
 
 # Data Structure and Initial Checks
 
-Tekora's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count over 78k records.
+Tekora's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total row count of over 78k records.
 
 ![Tekora ERD](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Tekora%20ERD.jpg)
 
