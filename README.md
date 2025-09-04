@@ -63,10 +63,10 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 
 ### Product Performance:
 
-* **Heavy Reliance on a Few Key Products.** The company's sales are heavily concentrated, with 85% of all orders and 70% of total sales driven by just three products: Gaming Monitors, Apple AirPods, and Samsung Cable Packs. This indicates an over-reliance on a very narrow product portfolio.
+### Product Performance
 
-* **Underperforming Products.** The company is failing to capture sales from certain products with market potential.  Despite the general success of the Apple brand, iPhones consistently underperform, accounting for less than 1% of total orders. Similarly, the lower-cost Bose SoundSport Headphones have also generated less than 1% of revenue, failing to gain traction as an alternative to the top-selling AirPods (on average, $40 cheaper).
-  
+* **Heavy Reliance on a Few Key Products.** The company's sales are heavily concentrated, with 85% of all orders and 70% of total sales driven by just three products: Gaming Monitors, Apple AirPods, and Samsung Cable Packs. This indicates an over-reliance on a very narrow product portfolio.
+* **Underperforming Products.** The company is failing to capture sales from certain products with market potential. Despite the general success of the Apple brand, iPhones consistently underperform, accounting for less than 1% of total orders. Similarly, the lower-cost Bose SoundSport Headphones have also generated less than 1% of revenue, failing to gain traction as an alternative to the top-selling AirPods (on average, $40 cheaper).
 * **High Volume, Low-Value Products.** The accessories category, largely driven by the Samsung Cable Pack, has grown its share of total orders to 32% in 2022. However, the Samsung Cable Pack contributes only 2% of total revenue, suggesting it is frequently used in promotions or priced too low to significantly impact the bottom line.
 
 ![Product Performance](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Product%20Dashboard.png)
