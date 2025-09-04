@@ -1,6 +1,5 @@
 # Tekora Online Sales Analysis
 
-
 Table of Contents
 
 - [Project Background](#project-background)
@@ -13,9 +12,6 @@ Table of Contents
   - [Loyalty Program Performance](#loyalty-program-performance)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
-
-
-
 
 # Project Background
 
@@ -57,72 +53,53 @@ After peaking in early 2020, Tekora's sales have continued to decline, with sign
 * **An Unusual Seasonal Pattern.** Unlike typical retail trends, Tekora's sales have consistently shown an unexpected seasonal pattern. Sales peak in March and October, while the crucial holiday months of November and December are periods of the lowest revenue. This warrants further investigation into the root cause.
 * **A New Baseline of Concern.** Despite the downward trend, full-year 2022 remained above the pre-pandemic 2019 baseline in all three key performance indicators. This is primarily due to the relatively strong first half of the year, which recorded sales and order count well above the same period in 2019, up 59% and 60% respectively. However, the consistent year-over-year decline in the second half of 2022 still represents a significant business challenge.
   
-
 ![Sales Trends](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Trend%20Dashboard.png)
-
 
 ### Product Performance:
 
 ### Product Performance
 
 * **Heavy Reliance on a Few Key Products.** The company's sales are heavily concentrated, with 85% of all orders and 70% of total sales driven by just three products: Gaming Monitors, Apple AirPods, and Samsung Cable Packs. This indicates an over-reliance on a very narrow product portfolio.
-* **Underperforming Products.** The company is failing to capture sales from certain products with market potential. Despite the general success of the Apple brand, iPhones consistently underperform, accounting for less than 1% of total orders. Similarly, the lower-cost Bose SoundSport Headphones have also generated less than 1% of revenue, failing to gain traction as an alternative to the top-selling AirPods (on average, $40 cheaper).
+* **Underperforming Products.** The company is failing to capture sales from certain products with market potential. Despite the general success of the Apple brand, iPhones consistently underperform, accounting for less than 1% of total orders. Similarly, the lower-cost Bose SoundSport Headphones have also generated less than 1% of revenue, failing to gain traction as a cheaper alternative to the top-selling AirPods (on average, $40 cheaper).
 * **High Volume, Low-Value Products.** The accessories category, largely driven by the Samsung Cable Pack, has grown its share of total orders to 32% in 2022. However, the Samsung Cable Pack contributes only 2% of total revenue, suggesting it is frequently used in promotions or priced too low to significantly impact the bottom line.
 
 ![Product Performance](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Product%20Dashboard.png)
 
+### Regional Comparisons
 
-
-### Regional Comparisons:
-
-* **Over-Reliance on a Few Key Regions.** The business is heavily concentrated in North America and EMEA, which together contributed 81% of total sales with the U.S. alone accounting for 48%.  After a temporary fall in 2021, North America increased its revenue share to 55% in 2022, reinforcing its position as the company's most important market.
- 
+* **Over-Reliance on a Few Key Regions.** The business is heavily concentrated in North America and EMEA, which together contributed 81% of total sales with the U.S. alone accounting for 48%. After a temporary fall in 2021, North America increased its revenue share to 55% in 2022, reinforcing its position as the company's most important market.
 * **Regional AOV Disparities.** A deeper look into Average Order Value (AOV) reveals significant regional disparities. The APAC region has experienced the highest AOV since 2020, remaining at $237 in 2022, which is 38% higher than the lowest-performing region, Latin America. This highlights APAC as a key market for high-value orders.
   
-
-
 ![Regional Comparisons](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Region%20Dashboard.png)
-
 
 ### Loyalty Program Performance
 
 * **Growing Contribution to Company Revenue.** The loyalty program has become a key revenue driver, with the percentage of sales from members increasing from just 8% in 2019 to 57% in 2022. The program's monthly contribution to revenue peaked at 61% in March 2022. However, a key area of concern has emerged in new member acquisition, which peaked in 2021 at 13,407 new accounts before falling by nearly 50% in 2022.
-  
 * **Higher Value and Engagement.** In 2022, loyalty members consistently outperformed non-members across all key metrics. They generated $500K more in sales, placed 800 more orders, and spent $39 more per order, demonstrating their higher value and stronger engagement with the brand.
   
-
 ![Loyalty Program](https://github.com/hiepnguyenbg/Tekora-Online-Sales-Analysis/blob/main/assets/Loyalty%20Dashboard.png)
 
+# Recommendations
 
+Based on the uncovered insights, the following recommendations have been provided:
 
-
-# Recommendations:
-
-Based on the uncovered insights, the following recommendations have been provided: 
-
-**Optimizing Product & Category Offerings**
+#### **Optimizing Product & Category Offerings**
 
 * **Strategic Product Portfolio Management.** Given the over-reliance on a few key products, expand the accessory category with new product lines, such as Apple charging cables, to provide upsell opportunities and broaden the revenue base.
-  
 * **Capitalize on Product Ecosystems.** Introduce higher-cost Samsung products in categories like laptops and cellphones to capitalize on the growing share of Samsung accessory sales.
-  
 * **Re-evaluate Underperforming Products.** Address consistently underperforming products by enhancing marketing for iPhones to previous Apple product buyers and evaluating the viability of Bose SoundSport Headphones by exploring bundles or promotional sales to clear inventory before a potential discontinuation.
 
-**Driving Customer & Regional Growth**
+#### **Driving Customer & Regional Growth**
 
 * **Focus on High-Performing Regions.** Continue allocating resources to North America and EMEA with regionalized marketing strategies. In addition, launch a targeted campaign to drive loyalty program sign-ups specifically in the APAC region to capitalize on the high average order value of these customers.
-
 * **Enhance the Loyalty Program.** Push forward a data-driven tiered rewards program to convert non-members into loyal members.
   * Offer a one-time sign-up discount to increase new member acquisition.
   * Use targeted ads to previous customers to increase the marketing of membership benefits and savings.
   * Use referral bonuses to turn your best customers into powerful advocates, driving long-term, sustainable growth.
 
-
-
-# Assumptions and Caveats:
+# Assumptions and Caveats
 
 * **Imperfect Data Schema Normalization.** A separate `products` table should exist to prevent duplicates in the `orders` table. Moreover, since each order can have at most one status, the `order_status` table may be unnecessary. It also contains a redundant `purchase_ts` column.
-
 * **Refund Records.** No refunds were recorded in 2022, which represents an anomaly that requires further investigation.
 
 
