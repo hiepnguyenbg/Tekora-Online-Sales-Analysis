@@ -99,7 +99,6 @@ Based on the uncovered insights, the following recommendations have been provide
 
 # Assumptions and Caveats
 
-* **Imperfect Data Schema Normalization.** A separate `products` table should exist to prevent duplicates in the `orders` table. Moreover, since each order can have at most one status, the `order_status` table may be unnecessary. It also contains a redundant `purchase_ts` column.
 * **Refund Records.** No refunds were recorded in 2022, which represents an anomaly that requires further investigation.
 
 
